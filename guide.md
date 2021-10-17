@@ -1,8 +1,8 @@
 # myupload-guide
 step 1. download my upload easy enough right?
 
-step 2. remix [this](https://glitch.com/edit/#!/lamp-poc) project on glitch
+step 2. extract my-upload-base-2021.zip
 
-step 3. import start.js & hostalg.php into the project
+step 2. remix [this](https://glitch.com/edit/#!/remix-me) project on glitch
 
-step 4. in index.php
+step 3. import folder my-upload-base-2021 into the project

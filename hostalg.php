@@ -2,7 +2,7 @@
 $filename = $_FILES['file']['name'];
 
 /* Choose where to save the uploaded file */
-$location = "network/".$filename;
+$location = "downloaded_files/".$filename;
 
 /* Save the uploaded file to the local filesystem */
 if ( move_uploaded_file($_FILES['file']['tmp_name'], $location) ) { 

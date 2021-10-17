@@ -1,2 +1,2 @@
-# hostpro-algorithm
-hostpro core
+# hostalg-guide
+step 1.download hostalg

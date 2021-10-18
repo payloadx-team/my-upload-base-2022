@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <input id="fileupload" type="file" name="fileupload" />
 <button id="upload-button" onclick="uploadFile()"> host! </button>

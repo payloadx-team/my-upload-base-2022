@@ -1,3 +1,4 @@
+<html>
 <input id="fileupload" type="file" name="fileupload" />
 <button id="upload-button" onclick="uploadFile()"> host! </button>
 <script>
@@ -11,3 +12,4 @@ async function uploadFile() {
     alert('The file has been uploaded successfully.');
 }
 </script>
+</html>

@@ -6,7 +6,7 @@
 async function uploadFile() {
     let formData = new FormData();           
     formData.append("file", fileupload.files[0]);
-    await fetch('scripts/download.php', {
+    await fetch('scripts/fetch.php', {
       method: "POST", 
       body: formData
     });    
